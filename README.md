@@ -5,6 +5,7 @@
 ### :watch: Recent General Assembly Data Science Immersive graduate
 
 I am a data scientist with a background in accounting who helps organizations identify and use untapped resources. With my unique set of analytical and organizational skills, I discover new opportunities, root out waste, capture lessons and organize knowledge. I am motivated by the thrill of discovery using a mix of innovative and tried-and-true approaches to problem solving.
+_ _ _
 
 ### Focus areas :eye_speech_bubble:
 
