@@ -18,6 +18,9 @@ _ _ _
     * Product development for fragrances, home goods and textiles
     * Market research for fragrances, home goods and textiles
 
+* **Accounting**
+    * Blockchain ledger research
+    * Research in AI supported accounting
 
 * **Multimedia art**
 
