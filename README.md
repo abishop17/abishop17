@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+
+### :smiling_face_with_three_hearts: Allison Bishop, CPA
+### :compass: Atlanta, GA
+### :watch: Recent General Assembly Data Science Immersive graduate
 
 I am a data scientist with a background in accounting who helps organizations identify and use untapped resources. With my unique set of analytical and organizational skills, I discover new opportunities, root out waste, capture lessons and organize knowledge. I am motivated by the thrill of discovery using a mix of innovative and tried-and-true approaches to problem solving.
 
@@ -14,12 +18,12 @@ I am a data scientist with a background in accounting who helps organizations id
     * Market research for fragrances, home goods and textiles
 
 
-**Multimedia art**
+* **Multimedia art**
 
    * Match multimedia artists to companies for advertising campaigns
 
 
-**Visual art and design**: See projects below
+* **Visual art and design**: See projects below
 _ _ _
 ### Projects I’m currently working on :love_letter: ***and*** I’m looking to collaborate on 👯
 
